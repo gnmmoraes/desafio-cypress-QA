@@ -6,4 +6,5 @@ cypress/logs/
 .cache/
 .env
 .DS_Store
-CypressCache/ 
+CypressCache/
+package-lock.json

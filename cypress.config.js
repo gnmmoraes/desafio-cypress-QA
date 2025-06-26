@@ -13,7 +13,7 @@ module.exports = defineConfig({
     video: false,
     screenshotOnRunFailure: false,
     defaultCommandTimeout: 10000,
-    viewportWidth: 1024,
-    viewportHeight: 768,
+    viewportWidth: 1920,
+    viewportHeight: 1080,
   },
 });
