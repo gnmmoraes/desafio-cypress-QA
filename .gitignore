@@ -1,0 +1,9 @@
+node_modules/
+cypress/screenshots/
+cypress/videos/
+cypress/logs/
+*.log
+.cache/
+.env
+.DS_Store
+CypressCache/ 
